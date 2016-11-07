@@ -64,7 +64,7 @@ Martin_ hier. Worum geht's?
    - Warte ein, zwei oder drei Minuten. Der Cronjob interessiert sich jede Minute dafür, ob er etwas
      für dich tun kann. Dann mach einen Reload im Browser.
      
-     .. admonition:: Merke!
+     .. note::
      
         Kein Fork, kein Pull Request, keine Commit-Message, keinerlei Installation
         erforderlich! Sehen, ändern, speichern. Und warten - das ist bestimmt das Schwerste.
@@ -102,7 +102,7 @@ einen Fehler entdecken.
 
 TYPO3 - Inspire people to share!
 
-Martin
+Martin_
 
         
         
