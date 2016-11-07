@@ -92,7 +92,9 @@ Martin_ hier. Worum geht's?
      :doc:`reStructuredText </reStructuredText/Index>` sollen Hilfestellung beim Einstieg
      sein. Sie können natürlich bedenkenlos gelöscht werden.
      
-Wenn mir mehr einfällt oder Fragen auftauchen schreibe ich mir.
+Wenn mir mehr einfällt oder Fragen auftauchen schreibe ich mehr in der
+`Mastervorlage des Starter-Projektes`__. Dort kann man also bei Bedarf
+reinschauen.
 
 Viel Spaß, viel Erfolg, und bitte: Weitersagen! Wir benötigen möglichst viele Mitstreiter
 in der Community, die sich trauen, "Edit me on Github" zu drücken, wenn sie in der Doku
@@ -101,6 +103,7 @@ einen Fehler entdecken.
 TYPO3 - Inspire people to share!
 
 Martin
+
         
         
 
@@ -111,6 +114,7 @@ Martin
 
 __ https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/ProjectsOnGithub/Index.html
 __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/reStructuredText/Index.html
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/
 
 
 .. toctree::
