@@ -38,8 +38,13 @@ My Public Info Project
 
 .. _Martin: martin.bless@mbless.de
 
+
+---------------------------------------------
+
 | You like English? Read "Hello_" on this page.
 | You like German? Lies "Hallo_" auf dieser Seite.
+
+---------------------------------------------
 
 
 .. _hello:
@@ -111,6 +116,9 @@ my starter project. Everything is that easy and inviting that I'm using it mysel
 as a place to take notes. **Tip:** `Visit Martin's starter project for inspiration!
 <https://github.com/T3DocumentationStarter/Public-Info-001>`__
 
+And, **tip!**, watch `the growing list of documentation heros!
+<https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/Index.html>`__
+
 Have fun, have success, and please: Spread the news about starter projects. We need
 many community member that dare to press "Edit me on Github" when they see a mistake
 in TYPO3 documentation.
@@ -118,6 +126,10 @@ in TYPO3 documentation.
 TYPO3 - Inspire people to share!
 
 Martin_
+
+
+---------------------------------------------
+
 
 .. _hallo:
 
@@ -180,6 +192,15 @@ Worum geht's?
 Wenn mir mehr einfällt oder Fragen auftauchen schreibe ich mehr in der
 `Mastervorlage des Starter-Projektes`__. Dort kann man also bei Bedarf
 reinschauen.
+
+Für Anregungen, was man mit diesem Starter Projekt machen kann, schau
+dir meins an. Das Arbeiten damit ist so einfach und einladend,
+dass ich es selbst ständig benutze. **Tipp:** `Guck dir zur Anregung mal 
+Martin's Starterprojekt an!
+<https://github.com/T3DocumentationStarter/Public-Info-001>`__
+
+Und, **Tipp!**, beobachte `die wachsende Liste der Dokumentations-Helden!
+<https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/Index.html>`__
 
 Viel Spaß, viel Erfolg, und bitte: Weitersagen! Wir benötigen möglichst viele Mitstreiter
 in der Community, die sich trauen, "Edit me on Github" zu drücken, wenn sie in der Doku
