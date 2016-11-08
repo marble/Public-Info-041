@@ -38,9 +38,94 @@ My Public Info Project
 
 .. _Martin: martin.bless@mbless.de
 
+| You like English? Read "Hello_" on this page.
+| You like German? Lies "Hallo_" auf dieser Seite.
+
+
+.. _hello:
+
+Hello,
+
+Martin_ here.
+
+What's it about?
+
+#. This is your personal TYPO3 documentation starter project.
+   Do with it what you like. Write a note, delete the subfolders,
+   create new subfolders, mess it all up: That's ok.
+
+#. Only you and me have write access.
+
+#. Never before has it been easier to write in this format:
+
+   - Goto `website <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
+     and from there to YOUR project. Just remember the number.
+     
+   - Go to your "Hello world!" page - for example.
+   
+   - Press "Edit me on Github". You need to be signed in into Github 
+     in your browser and make sure that you have accepted the invitation 
+     that Github has sent to you by mail. You can find the invitation in your
+     Github account as well.
+     
+   - You'll be taken to the edit form right away. Write a word, press "Save".
+     This creates a commit, and our `docs server is automatically notified that
+     there is something new to do.`__
+     
+   - Wait one, two or three minutes. The cronjob is eager to work every minute.
+     **Reload** your browser and **clear** your browser cache.
+     
+     .. note::
+     
+        No fork required, no pull request, no commit message, no installation
+        required. See, update, save. That's all. And wait a little moment - 
+        that's probably the hardest part. Although it's only a short time.
+        
+   - Oh yes, reST (reStructuredText__) is picky at parts. On the other hand
+     it has semantic markup, cares about maximal readability of the source
+     you write and is capable of doing things that others can only dream of.
+     
+   - If something isn't working as you expect:
+     
+     .. tip:: Watch the log!
+     
+        Each documentation project that's rendered by the new tool chain
+        leaves a `/_buildinfo` folder that you can inspect in the web.
+        The file :file:`warnings.txt` in there is of special interest,
+        as it contains the Sphinx_ warnings and error messages.
+        
+     So you can append `/_buildinfo/` to the root url of your project.
+     Or, to make your life easier, add a link like this to your text:
+     ```buildinfo <_buildinfo>`__`` It should show up and work like this: 
+     `buildinfo <_buildinfo>`__
+     
+   - I've added the chapters (=subfolder) :doc:`Hyperlinks </Hyperlinks/Index>` and
+     :doc:`reStructuredText </reStructuredText/Index>` just to give you some help.
+     You can of course delete or rename them as you like.
+     
+If more comes into my mind I'll add that to the `master template of this starter project`__.
+Drop by as you like.
+
+To get a more concrete idea of what you can do with this starter project look at
+my starter project. Everything is that easy and inviting that I'm using it myself
+as a place to take notes. **Tip:** `Visit Martin's starter project for inspiration!
+<https://github.com/T3DocumentationStarter/Public-Info-001>`__
+
+Have fun, have success, and please: Spread the news about starter projects. We need
+many community member that dare to press "Edit me on Github" when they see a mistake
+in TYPO3 documentation.
+
+TYPO3 - Inspire people to share!
+
+Martin_
+
+.. _hallo:
+
 Hallo,
 
-Martin_ hier. Worum geht's?
+Martin_ hier.
+
+Worum geht's?
 
 #. Dies ist dein persönliches TYPO3-Documentation-Starter-Project.
    Mach damit was du willst. Schreib eine Notiz, lösch die Unterordner,
@@ -51,7 +136,7 @@ Martin_ hier. Worum geht's?
 #. Niemals zuvor war es einfacher, in diesem Format etwas zu schreiben:
 
    - Du gehst auf die `Website <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
-     und dort zu DEINEM Projekt.
+     und dort zu DEINEM Projekt. Merk dir halt die Nummer.
      
    - Geh z. B. auf die "Hello world!" Seite.
    
