@@ -39,6 +39,14 @@ My Public Info Project
 .. _Martin: martin.bless@mbless.de
 
 
+.. attention::
+
+   Whenever you change something and you want to see the new rendering:
+   Don't forget to REFRESH YOU BROWSER. Or, even better:
+   Clear the browser cache!
+
+
+
 ---------------------------------------------
 
 | You like English? Read "Hello_" on this page.
