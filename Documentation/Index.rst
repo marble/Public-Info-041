@@ -34,9 +34,11 @@ My Public Info Project
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `folder overview <..>`__
-:Others:          `list of 'heros' <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/>`__
-.. _Martin: martin.bless@mbless.de
+:Others:          `Who else has a starter project?`__
 
+__ <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/>`__
+
+.. _Martin: martin.bless@mbless.de
 
 .. attention::
 
