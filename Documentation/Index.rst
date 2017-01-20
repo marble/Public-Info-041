@@ -33,7 +33,6 @@ My Public Info Project
 :Writing here:    My Name (replace by your Name)
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
-:Others:          `folder overview <..>`__
 :Others:          `Who else has a starter project?`__
 
 __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/
