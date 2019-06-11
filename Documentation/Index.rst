@@ -45,6 +45,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
    Don't forget to REFRESH YOU BROWSER. Or, even better:
    Clear the browser cache!
 
+`test <javascript:alert('hi');>`__
 
 
 ---------------------------------------------
